@@ -13,7 +13,7 @@ Bizimle bu adresler üzerinden iletişime geçebilirsin;
 
 discord ; .gg/wolfestgames
 e-mail; wolfestgames@gmail.com
-phone ; (+00) XXX XXX XX
+phone ; (+00) XXX XXX XXX
 
 
 For Other User(s)
