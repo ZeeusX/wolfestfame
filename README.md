@@ -7,7 +7,7 @@ Redress Studio olarak ana amacımız oyuncularımıza kesintisiz ve amansız bir
 
 Ödemeleriniz tamamen Google Play ve aracı ödeme kuruluşları tarafından alınan kart bilgileriniz ve ödeme yönteminizle yapılır.
 Bu ödemeler boyunca kullandığınız bilgiler tarafımızca saklanmaz ve bizim yönetmeliğimiz boyunca elimize geçmez.
-Ödemelerinizi iade etme politikamız tamamen google play tarafından belirlenen şartlar altında yapılır.
+Ödemelerinizi iade etme politikamız tamamen google play tarafından belirlenen şartlar altında yapılır..
 
 Bizimle bu adresler üzerinden iletişime geçebilirsin;
 
