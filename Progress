@@ -1,0 +1,11 @@
+All Progress....
+
+
+Versiyon 0.1 güncellemesinde genel olarak eklenen özellikler ana altyapı üzerine kurulu olarak ayarlandı.
+
+  * Karakter kontrolü özelleştirildi. (shake ve fall damage eklendi.)
+  * Karakter için özel kondisyon eklendi. (5,7 saniye arasında bir sürede karakter yavaşlıyor.)
+  * Deneme cafe eklendi. ( tüm sistem testleri bu alanda yapılacak.)
+  * Sistem denemeleri için özel terrain eklendi.
+
+Versiyon 0.2 in progress.
